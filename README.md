@@ -1,2 +1,2 @@
 # CSS
-Repositório com aprendizado e exercícios: CSS
+- Repositório com: artigos, aprendizados, exercícios e projetos.
